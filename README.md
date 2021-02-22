@@ -6,8 +6,9 @@ you can see how similar each text is.
 For running the codes, create a folder and put the codes in the folder as follows:
 
 1. prepare for a data folder
-app folder          place python codes here
-   |--data folder   create a data folder and put your text files here
+appication folder
+   |--data folder
+Place python apps (.py) in the application folder. Create a data folder in the application folder and put your text files there.
 
 2. prepare for data
 All the data should be plain texts. The file names are used for showing each file as item name in a dendrogram, so name them
