@@ -5,9 +5,9 @@ you can see how similar each text is.
 
 For running the codes, create a folder and put the codes in the folder as follows:
 
-1. prepare for a data folder
-appication folder
-   |--data folder
+1. prepare for a data folder\n\n
+appication folder\n
+   |--data folder\n\n
 Place python apps (.py) in the application folder. Create a data folder in the application folder and put your text files there.
 
 2. prepare for data
